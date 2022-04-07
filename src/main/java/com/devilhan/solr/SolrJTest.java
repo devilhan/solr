@@ -14,7 +14,7 @@ import org.apache.solr.common.SolrInputDocument;
 /**
  * Created by hanyanjiao on 17:58 solr java api test
  */
-public class SolrTest {
+public class SolrJTest {
 
   private static final String SOLR_URL = "http://192.168.93.10:8983/solr/testcore";
 
